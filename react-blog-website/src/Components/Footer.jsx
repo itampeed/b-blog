@@ -110,7 +110,7 @@ const Footer = () => {
                     </div>
                 </div>
                     <div className='w-full text-center'>
-                        <p className='text-gray-500'>Copyright @ 2024 | Made by Bilal in React</p>
+                        <p className='text-gray-500'>Copyright @ 2024 | Made by <Link to='https://itampeednew.surge.sh/' className='font-bold hover:text-orange-500' target='_blank'>Bilal</Link> in React</p>
                     </div>
             </div>
 
